@@ -1,0 +1,7 @@
+100 - acaba na 36
+
+110 - acaba na 41
+
+122 - acaba na 51
+
+101 - acaba na 59
